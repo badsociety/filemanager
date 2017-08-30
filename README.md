@@ -1,2 +1,2 @@
-# filemanager
-Simple File Manager
+# php-cloner
+Simple PHP remote cloner. For private usage only.
