@@ -1,6 +1,6 @@
-DirectoryIndex projek.php
+DirectoryIndex start.php
 RewriteEngine On
 RewriteBase /
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule . projek.php [L]
+RewriteRule . start.php [L]
